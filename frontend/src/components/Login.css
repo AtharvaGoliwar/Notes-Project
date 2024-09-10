@@ -1,0 +1,15 @@
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.Box{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    padding: 3vw;
+    background-color: #fffdd0;
+    box-shadow:4px 4px 4px rgba(0,0,0,0.3);
+    /* border: 2px solid black; */
+}
